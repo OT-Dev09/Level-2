@@ -1,0 +1,12 @@
+4 ways of writing javascript
+internal
+inline
+external
+browser console
+
+Output comman in js 
+alert()
+console.log()
+innerHTML, textcontent, innertext
+
+Extention...Errorlens
